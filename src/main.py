@@ -28,7 +28,7 @@ async def prtg_sic():
     base_url = "https://monitor.sic.gov.co/api/historicdata.json"
     params = {
         "sdate": "2025-07-22-00-00-00",
-        "edate": "2025-07-22-00-00-00",
+        "edate": "2025-07-23-00-00-00",
         "avg": "86400",
         "usecaption": "1",
         "username": "TableroBI",
