@@ -15,7 +15,7 @@ async def prtg_sic():
     params = {
         "sdate": "2025-01-01-00-00-00",
         "edate": "2025-07-25-23-59-00",
-        "avg": "86400",
+        "avg": "3600",
         "usecaption": "1",
         "username": "TableroBI",
         "passhash": "3170827812"
